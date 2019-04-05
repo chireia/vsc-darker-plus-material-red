@@ -1,6 +1,6 @@
 {
   "name": "darker-plus-material-red",
-  "displayName": "Dark++ Material Red",
+  "displayName": "Darker+ Material Red",
   "description": "Its a mix of default Dark+, Material plus a lot of red",
   "version": "0.0.1",
   "publisher": "chireia",
@@ -17,7 +17,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dark++ Material Red",
+        "label": "Darker+ Material Red",
         "uiTheme": "vs-dark",
         "path": "./themes/Dark++ Material Red-color-theme.json"
       }
