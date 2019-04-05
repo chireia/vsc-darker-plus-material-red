@@ -1,0 +1,21 @@
+{
+    "name": "darker-plus-material-red",
+    "displayName": "Dark++ Material Red",
+    "description": "Dark++ Material Red Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.33.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark++ Material Red",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark++ Material Red-color-theme.json"
+            }
+        ]
+    }
+}
