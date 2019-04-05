@@ -11,3 +11,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [0.0.1] - 2019-04-05
 ### Added
 - All docs to initial version release.
+
+## [0.1.0] - 2019-04-05
+### Changed
+- Extension description.
+
