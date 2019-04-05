@@ -8,6 +8,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 
-## [0.0.1] - 2017-06-20
+## [0.0.1] - 2019-04-05
 ### Added
 - All docs to initial version release.
