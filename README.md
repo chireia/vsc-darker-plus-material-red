@@ -5,7 +5,6 @@
 <p align="center">Tried to mix the themes default Dark+ (but darker), Material and a lot of red.<p>
 
 <p align="center">
-<a href="vscode:extension/Equinusocio.vsc-material-theme"><img src="https://img.shields.io/badge/Install-VS%20Code-red.svg?style=for-the-badge&colorA=5DDB61&colorB=4BC74F&logo=visual-studio-code"/></a>
 <a href="https://marketplace.visualstudio.com/items?itemName=chireia.darker-plus-material-red"><img src="https://img.shields.io/badge/Download-VS%20Marketplace-red.svg?style=for-the-badge&colorA=5DDB61&colorB=4BC74F&logo=visual-studio-code"/></a>
 </p>
 </br>
