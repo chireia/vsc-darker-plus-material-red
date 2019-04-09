@@ -40,10 +40,12 @@
 
 </br>
 <p align="center">
-  <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f52b.png?v8" width="36"> <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f920.png?v8" width="36"> - Just try it!
+  <img style="position: relative; top: 10px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f52b.png?v8" width="36"> 
+  <img style="position: relative; top: 10px" src="https://github.githubassets.com/images/icons/emoji/unicode/1f920.png?v8" width="36"> - Just try it!
+  </br>
   </br>
   <span>
-    If would like seeing another colors, [rate](https://marketplace.visualstudio.com/items?itemName=chireia.darker-plus-material-red&ssr=false#review-details) the theme and suggest!
+    If would like seeing another colors, <a href="https://marketplace.visualstudio.com/items?itemName=chireia.darker-plus-material-red&ssr=false#review-details">rate</a> the theme and suggest!
   </span>
 
 </p>
