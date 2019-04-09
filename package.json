@@ -1,7 +1,7 @@
 {
   "name": "darker-plus-material-red",
   "displayName": "Darker+ Material Red",
-  "description": "Its a mix of default Dark+, Material plus and a lot of red",
+  "description": "Its a mix of default Dark+, Material and a lot of red",
   "version": "0.1.0",
   "publisher": "chireia",
   "author": {
@@ -9,7 +9,7 @@
   },
   "icon": "images/logo.png",
   "engines": {
-    "vscode": "^1.33.0"
+    "vscode": "^1.25.1"
   },
   "categories": [
     "Themes"
