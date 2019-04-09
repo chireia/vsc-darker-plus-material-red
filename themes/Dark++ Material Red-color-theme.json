@@ -15,6 +15,7 @@
 		"editorGroupHeader.tabsBackground": "#161616",
 		"editor.lineHighlightBackground": "#00000044",
 		"editor.lineHighlightBorder": "#00000000",
+		"editorCursor.foreground": "#ff0000",
 		"list.dropBackground": "#3d3838",
 		"sideBarTitle.foreground": "#ffffff",
 		"sideBar.background": "#202020",
@@ -108,7 +109,7 @@
 		{
 			"scope": "entity.name.tag.css",
 			"settings": {
-				"foreground": "#d49e28"
+				"foreground": "#ff4242"
 			}
 		},
 		{
@@ -130,7 +131,7 @@
 				"entity.other.attribute-name.scss"
 			],
 			"settings": {
-				"foreground": "#d49e28"
+				"foreground": "#ff4242"
 			}
 		},
 		{
@@ -534,7 +535,7 @@
 		{
 			"scope": "keyword.operator.quantifier.regexp",
 			"settings": {
-				"foreground": "#d49e28"
+				"foreground": "#ff4242"
 			}
 		},
 		{
@@ -546,7 +547,7 @@
 		{
 			"scope": "constant.character.escape",
 			"settings": {
-				"foreground": "#d49e28"
+				"foreground": "#ff4242"
 			}
 		}
 	]
